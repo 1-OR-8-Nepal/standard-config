@@ -52,11 +52,11 @@
 			"enabled": true,
 			"name": "dcm",
 			"title": "Radiology",
-			"logo": "/bahmni_config/openmrs/apps/home/pac.png",
+			"logo": "/bahmni_config/openmrs/apps/home/pacs.png",
 			"link": "/dcm4chee-web3"
 		},
 		{
-			"enabled": false,
+			"enabled": true,
 			"name": "metabase",
 			"title": "Analytics",
 			"logo": "/bahmni_config/openmrs/apps/home/analytics.png",

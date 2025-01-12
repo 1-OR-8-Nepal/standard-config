@@ -1,11 +1,11 @@
 {
 	"homePage": {
-		"header_text": "<b>HELIOS HOSPITAL MANAGEMENT SYSTEM",
-		"logo": "/bahmni_config/openmrs/apps/home/helios.png",
+		"header_text": "<b>Bringing The Higest Standard<br />of Medical Care</b>",
+		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
 		"title_text": " "
 	},
 	"loginPage": {
-		"logo": "/bahmni_config/openmrs/apps/home/helios.png",
+		"logo": "/bahmni_config/openmrs/apps/home/logo.png",
 		"showHeaderText": true,
 		"showTitleText": false
 	},
